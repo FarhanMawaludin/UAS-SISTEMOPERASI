@@ -23,3 +23,8 @@
 | 8 | Hapus Berkas | Menghapus file tertentu dengan perintah ***rm*** |
 | 9 | Pindahkan File | Memindahkan file dari lokasi sumber ke lokasi tujuan dengan perintah ***mv*** |
 | 10 | Lihat Pengguna | Menampilkan daftar pengguna yang sedang login dengan perintah ***who*** |
+
+<br>
+<b> Tampilan </b>
+
+![alt text](image.png)
