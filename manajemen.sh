@@ -1,5 +1,14 @@
 #!/bin/bash
 
+echo "======================================================"
+echo "          Selamat Datang di Manajemen File      "
+echo "======================================================"
+echo "=================== Dibuat Oleh ======================"
+echo "                  Farhan Mawaludin             "
+echo "                    2341720258                        "
+echo "=================== Kelas TI-1B ======================"
+
+
 # Menampilkan isi direktori saat ini
 lihat_isi_direktori() {
     ls -l
